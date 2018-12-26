@@ -4,7 +4,7 @@
   <groupId>info.ziang</groupId>
   <artifactId>jlib</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>jlib</name>
   <url>http://maven.apache.org</url>
 
